@@ -63,6 +63,36 @@ The project generates:
 📈 skills_for_<role>.png → Role-based skill charts
 
 
+📊 Dataset
+The dataset used in this project is publicly available on Kaggle:
+🔗 Direct Access: https://www.kaggle.com/datasets/kavyabiswas/hiresmart-dataset⁠�
+
+
+📁 Dataset Contents
+The dataset includes structured job listing data with the following fields:
+🧑‍💼 Job Roles
+📝 Job Descriptions
+🛠️ Skills
+📍 Location
+
+
+🎯 Purpose
+This dataset is curated to enable:
+📊 Job market trend analysis
+📈 In-demand skill identification
+🧠 NLP-based skill extraction
+🎯 Recruitment analytics and insights
+
+
+⚠️ Usage Note
+Due to GitHub file size limitations, the dataset is hosted externally on Kaggle. Please download it from the link above and place it in the project directory before running the code.
+
+
+HIRESMART/
+│── archive.csv   ← place dataset here
+│── hiresmart.py
+
+
 🎯 Use Cases
 📚 Students → Identify trending skills to learn
 💼 Job Seekers → Understand market demand
